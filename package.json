@@ -1,0 +1,16 @@
+{
+  "name": "notfoundmaster",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -w src/style.css -o public/style.css"
+  },
+  "author": "zuhran",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
